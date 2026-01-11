@@ -45,3 +45,6 @@ betterttv.net
 7tv.app
 7tv.io
 localizeapi.com
+create.roblox.com
+robloxlabs.com
+roblox/com
